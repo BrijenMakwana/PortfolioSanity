@@ -9,6 +9,16 @@ export default {
       type: "string",
     },
     {
+      name: "primaryImage",
+      title: "Primary Image",
+      type: "image",
+    },
+    {
+      name: "secondaryImage",
+      title: "Secondary Image",
+      type: "image",
+    },
+    {
       name: "aboutMeTitle",
       title: "About Me Title",
       type: "text",
