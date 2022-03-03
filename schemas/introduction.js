@@ -1,12 +1,12 @@
 export default {
-  name: "position",
-  title: "Position",
+  name: "introduction",
+  title: "Introduction",
   type: "document",
   fields: [
     {
       name: "title",
       title: "Title",
-      type: "string",
+      type: "text",
     },
   ],
 };
