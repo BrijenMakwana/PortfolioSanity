@@ -9,6 +9,11 @@ export default {
       type: "string",
     },
     {
+      name: "position",
+      title: "Position",
+      type: "text",
+    },
+    {
       name: "primaryImage",
       title: "Primary Image",
       type: "image",
