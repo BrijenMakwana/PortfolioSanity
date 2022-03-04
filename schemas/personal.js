@@ -68,5 +68,15 @@ export default {
       title: "Apps Text",
       type: "text",
     },
+    {
+      name: "email",
+      title: "Email",
+      type: "string",
+    },
+    {
+      name: "phone",
+      title: "Phone",
+      type: "string",
+    },
   ],
 };
