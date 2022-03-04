@@ -7,8 +7,6 @@ import schemaTypes from "all:part:@sanity/base/schema-type";
 // We import object and document schemas
 import blockContent from "./blockContent";
 import personal from "./Personal";
-import position from "./position";
-import introduction from "./introduction";
 import projects from "./projects";
 import achievements from "./achievements";
 import apps from "./apps";
@@ -23,8 +21,6 @@ export default createSchema({
     // The following are document types which will appear
     // in the studio.
     personal,
-    position,
-    introduction,
     projects,
     achievements,
     apps,

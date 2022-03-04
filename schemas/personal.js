@@ -14,6 +14,11 @@ export default {
       type: "text",
     },
     {
+      name: "introduction",
+      title: "Introduction",
+      type: "text",
+    },
+    {
       name: "primaryImage",
       title: "Primary Image",
       type: "image",
