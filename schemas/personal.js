@@ -39,8 +39,13 @@ export default {
       type: "text",
     },
     {
+      name: "skillsHeading",
+      title: "Skills Heading",
+      type: "string",
+    },
+    {
       name: "projectsHeading",
-      title: "Project Heading",
+      title: "Projects Heading",
       type: "string",
     },
     {
