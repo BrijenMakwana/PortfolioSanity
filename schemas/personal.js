@@ -74,6 +74,16 @@ export default {
       type: "text",
     },
     {
+      name: "npmPackagesHeading",
+      title: "npm Packages Heading",
+      type: "string",
+    },
+    {
+      name: "npmPackagesText",
+      title: "npm Packages Text",
+      type: "text",
+    },
+    {
       name: "email",
       title: "Email",
       type: "string",
