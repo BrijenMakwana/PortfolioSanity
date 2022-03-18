@@ -11,6 +11,7 @@ import skills from "./skills";
 import projects from "./projects";
 import achievements from "./achievements";
 import apps from "./apps";
+import npmPackages from "./npmPackages";
 
 // Then we give our schema to the builder and provide the result to Sanity
 export default createSchema({
@@ -26,6 +27,7 @@ export default createSchema({
     projects,
     achievements,
     apps,
+    npmPackages,
     // When added to this list, object types can be used as
     // { type: 'typename' } in other document schemas
     blockContent,
