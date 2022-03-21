@@ -74,13 +74,13 @@ export default {
       type: "text",
     },
     {
-      name: "npmPackagesHeading",
-      title: "npm Packages Heading",
+      name: "othersHeading",
+      title: "Other Projects Heading",
       type: "string",
     },
     {
-      name: "npmPackagesText",
-      title: "npm Packages Text",
+      name: "othersText",
+      title: "Other Projects Text",
       type: "text",
     },
     {
