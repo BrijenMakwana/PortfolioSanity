@@ -1,6 +1,6 @@
 export default {
-  name: "npmPackages",
-  title: "npm Packages",
+  name: "others",
+  title: "Other Projects",
   type: "document",
   fields: [
     {
@@ -17,6 +17,11 @@ export default {
       name: "description",
       title: "Description",
       type: "text",
+    },
+    {
+      name: "type",
+      title: "Type",
+      type: "string",
     },
     {
       name: "url",
