@@ -64,6 +64,16 @@ export default {
       type: "text",
     },
     {
+      name: "articlesHeading",
+      title: "Articles Heading",
+      type: "string",
+    },
+    {
+      name: "articlesText",
+      title: "Articles Text",
+      type: "text",
+    },
+    {
       name: "appsHeading",
       title: "Apps Heading",
       type: "string",
