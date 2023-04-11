@@ -9,9 +9,10 @@ export default {
       type: "string",
     },
     {
-      name: "position",
-      title: "Position",
+      name: "roles",
+      title: "Roles",
       type: "text",
+      description: "Various roles you perform professionally",
     },
     {
       name: "introduction",
@@ -29,13 +30,8 @@ export default {
       type: "image",
     },
     {
-      name: "aboutMeTitle",
-      title: "About Me Title",
-      type: "text",
-    },
-    {
-      name: "AboutMeText",
-      title: "About Me Text",
+      name: "about",
+      title: "About",
       type: "text",
     },
     {
@@ -49,8 +45,8 @@ export default {
       type: "string",
     },
     {
-      name: "projectsText",
-      title: "Projects Text",
+      name: "projectsDescription",
+      title: "Projects Description",
       type: "text",
     },
     {
@@ -59,8 +55,8 @@ export default {
       type: "string",
     },
     {
-      name: "achievementsText",
-      title: "Achievements Text",
+      name: "achievementsDescription",
+      title: "Achievements Description",
       type: "text",
     },
     {
@@ -69,8 +65,8 @@ export default {
       type: "string",
     },
     {
-      name: "articlesText",
-      title: "Articles Text",
+      name: "articlesDescription",
+      title: "Articles Description",
       type: "text",
     },
     {
@@ -79,18 +75,18 @@ export default {
       type: "string",
     },
     {
-      name: "appsText",
-      title: "Apps Text",
+      name: "appsDescription",
+      title: "Apps Description",
       type: "text",
     },
     {
-      name: "othersHeading",
+      name: "otherProjectsHeading",
       title: "Other Projects Heading",
       type: "string",
     },
     {
-      name: "othersText",
-      title: "Other Projects Text",
+      name: "otherProjectsDescription",
+      title: "Other Projects Description",
       type: "text",
     },
     {
