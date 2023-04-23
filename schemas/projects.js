@@ -23,5 +23,11 @@ export default {
       title: "URL",
       type: "url",
     },
+    {
+      name: "technologies",
+      title: "Technologies",
+      type: "text",
+      description: "Which tech stacks this project uses",
+    },
   ],
 };
